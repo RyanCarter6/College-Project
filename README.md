@@ -1,4 +1,4 @@
-# CornerGrocer
+# CS210-Portfolio
 Project 3
 
 The main problem of this project seemed to be opening and closing files while inputting/outputting data. Other than getting/putting the data somewhere, I think this project was also used to show proficiency in accessing that data and applying new concepts.
